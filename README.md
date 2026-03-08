@@ -160,7 +160,7 @@ provider**.
 
 ## 1. Clone Repository
 
-    git clone https://github.com/yourusername/LocalFinder.git
+    git clone https://github.com/singhsubm/LocalFinder.git
     cd LocalFinder
 
 ------------------------------------------------------------------------

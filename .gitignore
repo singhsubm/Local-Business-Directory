@@ -28,6 +28,7 @@ target/
 .cache/
 .tmp/
 temp/
+.gitignore
 
 # IDE / Editor
 .vscode/
